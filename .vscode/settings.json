@@ -1,0 +1,8 @@
+{
+    "github.copilot.chat.welcomeMessage": "always",
+    "files.defaultLanguage": "javascript",
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.startupEditor": "none"
+}
